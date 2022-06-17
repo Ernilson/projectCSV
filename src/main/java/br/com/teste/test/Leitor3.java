@@ -8,7 +8,7 @@ public class Leitor3 {
 
 	public static void main(String[] args) {
 
-		String path = "C:\\Users\\edaniel\\Documents\\Projetos\\relatorio.txt";
+		String path = "C:\\Users\\ernil.LAPTOP-FID40H3U\\OneDrive\\Documentos\\adt.txt";
 
 		try (BufferedReader br = new BufferedReader(new FileReader(path))) {
 
